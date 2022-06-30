@@ -31,6 +31,7 @@
    </plugins>
 
    <features>
+      <feature id="org.eclipse.platform"/>
       <feature id="org.eclipse.justj.openjdk.hotspot.jre.full.stripped" installMode="root"/>
    </features>
 
